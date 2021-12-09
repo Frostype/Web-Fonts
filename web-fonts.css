@@ -1,0 +1,10 @@
+p {
+font-family: 'blank-regular-xox';
+}
+
+@font-face {
+ font-family:'blank-regular-xox';
+  src:url('https://github.com/Frostype/Web-Fonts/blob/main/FTBlank-Regular.woff');
+  font-weight:normal;
+  font-style:normal;
+}
